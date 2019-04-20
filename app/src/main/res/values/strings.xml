@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Guroshots</string>
+    <string name="likes">Likes: %d</string>
+    <string name="votes">Votes: %d</string>
+    <string name="views">Views: %d</string>
+    <string name="small_image_url">https://photos.gurushots.com/unsafe/200x100/2a49ab04b1534574e578a08b8f9d7441/3_%s.jpg</string>
+    <string name="big_image_url">https://photos.gurushots.com/unsafe/%dx%d/2a49ab04b1534574e578a08b8f9d7441/3_%s.jpg</string>
+    <string name="successful_vote">Your vote has been counted successfully</string>
+</resources>
